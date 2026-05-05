@@ -1,0 +1,11 @@
+{
+  "ShareSkillTests": {
+    "Title": "JobSearch",
+    "Description":  "I will teach you how to het hired",
+    "Category": "Recruitment",
+    "Subcategory": "Employability",
+    "Tags": "JobSearch",
+    "Credit": "5",
+    "Filter": "Online"
+  }
+}
