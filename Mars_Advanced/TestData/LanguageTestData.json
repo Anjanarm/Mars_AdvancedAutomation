@@ -1,0 +1,53 @@
+{
+  "ValidLanguage": [
+    {
+      "Language": "English",
+      "Level": "Basic"
+    },
+    {
+      "Language": "Germen",
+      "Level": "Conversational"
+    },
+    {
+      "Language": "French",
+      "Level": "Fluent"
+    }
+  ],
+
+  "InvalidLanguage": [
+    {
+      "Language": "",
+      "Level": "Basic"
+    }
+  ],
+
+  "DuplicateData": [
+    {
+      "Language": "English",
+      "Level": "Fluent"
+    },
+    {
+      "Language": "English",
+      "Level": "Fluent"
+    }
+  ],
+  "EditData": [
+    {
+      "Original": {
+        "Language": "Chinese",
+        "Level": "Fluent"
+      },
+      "Updated": {
+        "Language": "Chinese",
+        "Level": "Basic"
+      }
+    }
+  ],
+
+  "DeleteData": [
+    {
+      "Language": "French",
+      "Level": "Conversational"
+    }
+  ]
+}
